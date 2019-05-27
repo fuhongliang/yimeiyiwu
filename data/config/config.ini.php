@@ -2,19 +2,19 @@
 
 
 $config = array();
-$config['base_site_url'] 		= 'http://www.yimeiyiwu.com';
-$config['shop_site_url'] 		= 'http://www.yimeiyiwu.com/shop';
-$config['cms_site_url'] 		= 'http://www.yimeiyiwu.com/cms';
-$config['microshop_site_url'] 	= 'http://www.yimeiyiwu.com/microshop';
-$config['circle_site_url'] 		= 'http://www.yimeiyiwu.com/circle';
-$config['admin_site_url'] 		= 'http://www.yimeiyiwu.com/admin';
-$config['mobile_site_url'] 		= 'http://www.yimeiyiwu.com/mobile';
-$config['wap_site_url'] 		= 'http://www.yimeiyiwu.com/wap';
-$config['chat_site_url'] 		= 'http://www.yimeiyiwu.com/chat';
+$config['base_site_url'] 		= 'http://47.92.244.60:1000';
+$config['shop_site_url'] 		= 'http://47.92.244.60:1000/shop';
+$config['cms_site_url'] 		= 'http://47.92.244.60:1000/cms';
+$config['microshop_site_url'] 	= 'http://47.92.244.60:1000/microshop';
+$config['circle_site_url'] 		= 'http://47.92.244.60:1000/circle';
+$config['admin_site_url'] 		= 'http://47.92.244.60:1000/admin';
+$config['mobile_site_url'] 		= 'http://47.92.244.60:1000/mobile';
+$config['wap_site_url'] 		= 'http://47.92.244.60:1000/wap';
+$config['chat_site_url'] 		= 'http://47.92.244.60:1000/chat';
 $config['node_site_url'] 		= 'http://172.26.50.58:8090';
-$config['delivery_site_url']    = 'http://www.yimeiyiwu.com/delivery';
-$config['upload_site_url']		= 'http://www.yimeiyiwu.com/data/upload';
-$config['resource_site_url']	= 'http://www.yimeiyiwu.com/data/resource';
+$config['delivery_site_url']    = 'http://47.92.244.60:1000/delivery';
+$config['upload_site_url']		= 'http://47.92.244.60:1000/data/upload';
+$config['resource_site_url']	= 'http://47.92.244.60:1000/data/resource';
 $config['version'] 		= '201601130001';
 $config['setup_date'] 	= '2019-05-27 14:09:45';
 $config['gip'] 			= 0;
@@ -57,5 +57,5 @@ $config['queue']['open'] = false;
 $config['queue']['host'] = '127.0.0.1';
 $config['queue']['port'] = 6379;
 $config['cache_open'] = false;
-$config['delivery_site_url']    = 'http://www.yimeiyiwu.com/delivery';
+$config['delivery_site_url']    = 'http://47.92.244.60:1000/delivery';
 return $config;
