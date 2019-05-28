@@ -3,6 +3,7 @@
 <!doctype html>
 <html>
 <head>
+  <meta name=referrer content=no-referrer>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">

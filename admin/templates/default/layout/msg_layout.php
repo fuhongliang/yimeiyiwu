@@ -2,6 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+  <meta name=referrer content=no-referrer>
 <meta charset="<?php echo CHARSET;?>">
 <title><?php echo $output['html_title'];?></title>
 <link href="<?php echo ADMIN_TEMPLATES_URL;?>/css/skin_0.css" rel="stylesheet" type="text/css">

@@ -3,9 +3,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head>
+	<meta name=referrer content=no-referrer>
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=<?php echo CHARSET;?>">
 <title><?php echo $output['html_title'];?></title>
+
 <script type="text/javascript" src="<?php echo RESOURCE_SITE_URL;?>/js/jquery.js"></script>
 <script type="text/javascript" src="<?php echo RESOURCE_SITE_URL;?>/js/jquery.validation.min.js"></script>
 <script type="text/javascript" src="<?php echo RESOURCE_SITE_URL;?>/js/admincp.js"></script>
