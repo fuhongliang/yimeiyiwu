@@ -1552,10 +1552,10 @@ td.trigger i:hover { color: #27A9E3;}
 .chat-log .pagination { clear: both; padding: 5px 0;}
 
 /*手机端首页及专题页面编辑操作*/
-.mb-special-layout { font-size: 0; background: #EFFAFE url("../images/cms_edit_bg_line.png") repeat-y scroll -50px 0; *word-spacing:-1px/*IE6、7*/; padding-top: 20px; border-top: solid 1px #deeffb;}
+.mb-special-layout { font-size: 0; background: #EFFAFE url(http://47.111.27.189:3389/admin/templates/default/images/cms_edit_bg_line.png) repeat-y scroll -50px 0; *word-spacing:-1px/*IE6、7*/; padding-top: 20px; border-top: solid 1px #deeffb;}
 .mb-special-layout .mb-item-box,
 .mb-special-layout .module-list { font-size: 12px; vertical-align: top; letter-spacing: normal; display: inline-block; *display: inline/*IE7*/; *zoom:1/*IE7*/;}
-.mb-special-layout .mb-item-box { background: url(../images/mobile/mpat.png) no-repeat 0 0; width: 400px; height: 670px; margin: 0 50px 0 30px; }
+.mb-special-layout .mb-item-box { background: url(http://47.111.27.189:3389/admin/templates/default/images/mobile/mpat.png) no-repeat 0 0; width: 400px; height: 670px; margin: 0 50px 0 30px; }
 .mb-special-layout .item-list { width: 350px; height: 540px; margin: 51px 26px 79px 24px; overflow-x: hidden; overflow-y: scroll;}
 .mb-item-box .special-item { width: 320px; min-height: 60px; padding: 4px; border: dashed 1px #CCC; margin: 2px 2px 0 2px; position: relative; z-index: 1;}
 .mb-item-box .special-item:hover { background-color: #F3FBFE; border: solid 1px #19AEDE;}
