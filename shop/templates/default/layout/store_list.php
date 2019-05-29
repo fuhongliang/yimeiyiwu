@@ -6,7 +6,7 @@ $(document).ready(function(){
     $('#area_info').nc_region();
 });
 </script>
-
+<meta name=referrer content=no-referrer>
 <link href="<?php echo SHOP_TEMPLATES_URL;?>/css/store_list.css" rel="stylesheet" type="text/css">
 <link href="<?php echo RESOURCE_SITE_URL;?>/js/jcarousel/skins/tango/skin.css" rel="stylesheet" type="text/css">
 

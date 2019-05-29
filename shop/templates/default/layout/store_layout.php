@@ -1,5 +1,6 @@
 <?php defined('InShopNC') or exit('Access Invalid!');?>
 <?php include template('layout/store_common_layout');?>
+<meta name=referrer content=no-referrer>
 <link href="<?php echo SHOP_TEMPLATES_URL;?>/css/shop.css" rel="stylesheet" type="text/css">
 <link href="<?php echo SHOP_TEMPLATES_URL?>/css/shop_custom.css" rel="stylesheet" type="text/css">
 <link href="<?php echo SHOP_TEMPLATES_URL;?>/store/style/<?php echo $output['store_theme'];?>/style.css" rel="stylesheet" type="text/css">
